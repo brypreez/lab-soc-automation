@@ -68,7 +68,6 @@ The cluster is built on a **3-node Proxmox VE (PVE) High-Availability stack**, e
 * **Core Gateway:** TP-Link ER7206 Wired VPN Router handling inter-VLAN routing and hardware-level firewalling.
 * **Switching:** TP-Link TL-SG108E (Layer 2 Managed) performing 802.1Q VLAN tagging for traffic isolation.
 * **Out-of-Band (OOB):** TP-Link AC750 Travel Router providing a dedicated, isolated recovery path for the PVE management interfaces.
-```
 
 ---
 
